@@ -2,7 +2,7 @@
 
 ## 1. Link and Preview
 
-Project link is available at [Quiz App](https://github.com/)
+Project link is available at [Quiz App](https://aligoknl.github.io/Quiz_App/index.html)
 
 ![Preview of Quiz App!](/public/images/quiz_app.GIF)
 
